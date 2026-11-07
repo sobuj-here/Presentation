@@ -91,9 +91,6 @@ This repository and its presentation materials are distributed under the **[MIT 
 
 <div align="center">
 
-Maintained by **[Md. Sobuj Ali](https://github.com/sobuj-here)**  
-*Mathematics Scholar*
-
 [![GitHub](https://img.shields.io/badge/GitHub-sobuj--here-181717?style=flat&logo=github)](https://github.com/sobuj-here)
 
 </div>
