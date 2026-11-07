@@ -1,0 +1,9 @@
+# PowerPoint temporary lock files
+~$*.pptx
+~$*.ppt
+
+# Operating System files
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+.DS_Store
